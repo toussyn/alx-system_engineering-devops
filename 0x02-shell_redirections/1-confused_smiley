@@ -1,3 +1,3 @@
 #!/bin/bash
-echo -e "\"(\u00D4\u006F)'"
+echo \"\(Ôo\)\'
 
